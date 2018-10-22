@@ -14,7 +14,9 @@
 
 ## 2.1. 关于客户的用户
 
-* 产品/服务/活动所面向的用户群体是哪些？
+&emsp;&emsp;**【产品/服务/活动所面向的用户群体是哪些？】**
+
+&emsp;&emsp;国内参赛者。
 
 ## 2.2. 关于产品/服务/活动
 
@@ -24,47 +26,47 @@
 
 &emsp;&emsp;**【分辨率、适配】**
 
-&emsp;&emsp;xxx。
+&emsp;&emsp;手机适配即可
 
 &emsp;&emsp;**【活动主题】**
 
-&emsp;&emsp;xxx。
+&emsp;&emsp;2018年底开始进行初赛，由miart举办（国内外同时进行），
 
 &emsp;&emsp;**【签证问题】**
 
-&emsp;&emsp;xxx。
+&emsp;&emsp;解决签证问题，以及陪同签证
 
 &emsp;&emsp;**【人员要求】**
 
-&emsp;&emsp;人员上限、年龄、专业要求......
+&emsp;&emsp;6岁以上参加了初赛并且进入总决赛的学生即陪同家长，其他人员不可参加。
 
 &emsp;&emsp;**【国内外负责的接待人员，吃穿住行、费用】**
 
-&emsp;&emsp;xxx。
-
+&emsp;&emsp;统一安排住宿（三星或四星级酒店），统一接送机、交通。费用包括各景点门票、解说费用、参赛费用
+不包含：三餐、签证费、往来机票、个人的其他费用。
 
 # 3. 关于客户
 ---
 
 &emsp;&emsp;**【主办单位】**
 
-&emsp;&emsp;xxx。
+&emsp;&emsp;私人  但以学院的名义举办
 
 &emsp;&emsp;**【在中国的情况】**
 
-&emsp;&emsp;xxx。
+&emsp;&emsp;上海一位总负责人，广东、上海、重庆、   四个赛区各一位负责人，负责国内初赛各事项
 
 &emsp;&emsp;**【组织机构的概况】**
 
-&emsp;&emsp;xxx。
+&emsp;&emsp;英国负责人一位（她自己）
 
 &emsp;&emsp;**【活动组织人员】**
 
-&emsp;&emsp;xxx。
+&emsp;&emsp;复赛后国内会安排随行人员。
 
 &emsp;&emsp;**【业务情况】**
 
-&emsp;&emsp;xxx。
+&emsp;&emsp;mia个人有10多名学生
 
 # 4. 术语
 ---
