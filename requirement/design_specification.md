@@ -16,12 +16,12 @@
 
 &emsp;&emsp;【**字号**】
 
-* 大标题：
+* 大标题：中文方正综艺简体（52）
+
 * 一级标题：
+
 * 二级标题：
 * 正文字号：
-* 字体模板见[font.md](./requirement_analysis.md)
-
 # 页面排版
 
 * 为行程设计标题页
@@ -37,4 +37,4 @@
 * 主色：紫色系[标题]
 * 标题页：红蓝
 * 其余黑白灰
-* 调色板见[palette.md](./requirement_analysis.md)
+* 调色板见[设计标准文件](../design_specification/design_specification.png)
